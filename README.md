@@ -1,8 +1,6 @@
 <h1 align="center">I'm Sanobelk</h1>
 <h3 align="center">Self-taught Web Developer from NYC.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanobelk&label=Profile%20views&color=0e75b6&style=flat" alt="sanobelk" /> </p>
-
 - 🔭 I’m currently **EMPLOYED AS OF 8/10/21**
 
 - 🌱 I’m currently learning **JavaScript, SASS, BootStrap, Web Design**
