@@ -1,9 +1,9 @@
 <h1 align="center">I'm Sanobelk</h1>
 <h3 align="center">Self-taught Web Developer from NYC.</h3>
 
-- 🔭 I’m currently **EMPLOYED AS OF 8/10/21**
+- 🔭 Currently working in FAANG **
 
-- 🌱 I’m currently learning **JavaScript, SASS, BootStrap, Web Design**
+- 🌱 Learning **JavaScript, React, Jekyll, Web Design**
 
 - ⚡ I am constantly challenging myself. Learning is a hobby for me.
 
